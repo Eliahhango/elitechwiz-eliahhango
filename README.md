@@ -1,9 +1,5 @@
 <div align="center">
 <br/>
-<img
-src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Here is a little bit about me!">
-
-<br />
 
 > **GIF loading a little slow? You can drink a cup of ☕ first**.
 
