@@ -38,11 +38,25 @@ I build practical web applications and small tools with security and simplicity 
 JavaScript · TypeScript · Python · React · Node.js · MongoDB · PostgreSQL · Tailwind · Figma
 
 ## Visuals
+## Visuals
 
 <div align="center">
-  <img src="https://picsum.photos/seed/p1/600/200" alt="screenshot-1" style="margin:6px; border-radius:6px;" />
-  <img src="https://picsum.photos/seed/p2/600/200" alt="screenshot-2" style="margin:6px; border-radius:6px;" />
-  <img src="https://picsum.photos/seed/p3/600/200" alt="screenshot-3" style="margin:6px; border-radius:6px;" />
+  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;">
+    <figure style="margin:0;text-align:center;">
+      <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="coding" width="300" style="border-radius:8px;" />
+      <figcaption style="font-size:12px;margin-top:6px;">Code & Engineering</figcaption>
+    </figure>
+
+    <figure style="margin:0;text-align:center;">
+      <img src="https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif" alt="security" width="300" style="border-radius:8px;" />
+      <figcaption style="font-size:12px;margin-top:6px;">Security & Testing</figcaption>
+    </figure>
+
+    <figure style="margin:0;text-align:center;">
+      <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" alt="design" width="300" style="border-radius:8px;" />
+      <figcaption style="font-size:12px;margin-top:6px;">Design & Drafting</figcaption>
+    </figure>
+  </div>
 </div>
 
 ## GitHub summary
