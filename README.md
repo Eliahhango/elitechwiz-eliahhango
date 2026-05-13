@@ -27,6 +27,6 @@ JavaScript / TypeScript · Python · React · Node.js · MongoDB · PostgreSQL �
 
 GitHub: https://github.com/Eliahhango
 
-Email: sbrk255@gmail.com
+Email: hangoeliah@gmail.com
 
 
